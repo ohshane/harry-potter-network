@@ -1,0 +1,14 @@
+Model2 description: Structural Equivalence
+------------------------------------------------------------------------------
+
+Image matrix definition:
+
+                   1                2
+-------------------------------------
+ 1:        [ -  com]        [ -  com]
+ 2:        [ -  com]        [ -  com]
+
+Image matrix penalties:
+
+                   1                2
+--
