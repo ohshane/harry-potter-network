@@ -1,0 +1,1812 @@
+*Vertices	740	60
+1	"Harry"
+2	"Ron"
+3	"Hermione"
+4	"Gilderoy Lockhart"
+5	"Dumbledore"
+6	"Hagrid"
+7	"Lucius Malfoy"
+8	"Tom Riddle"
+9	"Dobby"
+10	"Mcgonagall"
+11	"Draco"
+12	"Mrs. Weasley"
+13	"Uncle Vernon"
+14	"Snape"
+15	"Moaning Myrtle"
+16	"Mr. Weasley"
+17	"Filch"
+18	"Professor Sprout"
+19	"Aragog"
+20	"Voice"
+21	"Wood"
+22	"Madam Pomfrey"
+23	"Mr. Borgin"
+24	"Fudge"
+25	"Percy"
+26	"Lockhart"
+27	"Neville"
+28	"Fred"
+29	"Ginny"
+30	"Photographer"
+31	"Sir Nicholas"
+32	"Dudley"
+33	"Diary"
+34	"Harry And Ron"
+35	"Seamus"
+36	"Lee Jordan"
+37	"Sorting Hat"
+38	"Aunt Petunia"
+39	"George"
+40	"Witch"
+41	"Colin"
+42	"Flint"
+43	"Student"
+44	"Vernon"
+45	"Petunia"
+46	"Aunt Petunia & Dudley"
+47	"Fred, George, Ron"
+48	"Fred, George, Ron, Harry"
+49	"Man"
+50	"Trainmaster"
+51	"Class"
+52	"Penelope Clearwater"
+53	"Dean"
+54	"Cornish Pixies"
+55	"Boy"
+56	"Picture"
+57	"Slytherins"
+58	"Justin Finch-Fletchley"
+59	"Crabbe"
+60	"Harry-Ron-Hermione"
+61	"harry"
+62	"dobby"
+63	"hagrid"
+64	"’ s"
+65	"harry potter"
+66	"ron"
+67	"well"
+68	"potter"
+69	"hermione"
+70	"ca n't"
+71	"who"
+72	"oh"
+73	"secrets"
+74	"slytherin"
+75	"hogwarts"
+76	"ginny"
+77	"hello"
+78	"voldemort"
+79	"heir"
+80	"dumbledore"
+81	"malfoy"
+82	"gryffindor"
+83	"your"
+84	"stop"
+85	"dad"
+86	"right"
+87	"professor dumbledore"
+88	"crabbe"
+89	"petrified"
+90	"kill"
+91	"goyle"
+92	"’ d"
+93	"thank"
+94	"mandrake"
+95	"mrs. norris"
+96	"moaning myrtle"
+97	"’ t"
+98	"’ ve"
+99	"okay"
+100	"mum"
+101	"ministry"
+102	"muggles"
+103	"weasley"
+104	"mr. weasley"
+105	"mudblood"
+106	"muggle-borns"
+107	"tom riddle"
+108	"tom"
+109	"thanks"
+110	"’ ll"
+111	"excellent"
+112	"don ’ t"
+113	"’ re"
+114	"never"
+115	"yeah"
+116	"draco"
+117	"welcome"
+118	"professor snape"
+119	"professor"
+120	"salazar slytherin"
+121	"polyjuice potion"
+122	"parseltongue"
+123	"aragog"
+124	"’ m"
+125	"please"
+126	"sorry"
+127	"magic"
+128	"mr. malfoy"
+129	"excuse"
+130	"mr. potter"
+131	"miss granger"
+132	"hold"
+133	"up"
+134	"say"
+135	"bloody"
+136	"dark"
+137	"lockhart"
+138	"argus"
+139	"exactly"
+140	"wo n't"
+141	"fawkes"
+142	"ginny weasley"
+143	"sir nicholas"
+144	"dudley"
+145	"ohh"
+146	"hi"
+147	"shh"
+148	"morning"
+149	"weasleys"
+150	"errol"
+151	"percy"
+152	"diagon alley"
+153	"floo"
+154	"mind"
+155	"prophet"
+156	"be"
+157	"professor mcgonagall"
+158	"professor sprout"
+159	"mandrakes"
+160	"colin"
+161	"quidditch"
+162	"wood"
+163	"someone"
+164	"'s time"
+165	"enemies"
+166	"mudbloods"
+167	"vera verto"
+168	"bludger"
+169	"listen"
+170	"justin"
+171	"myrtle"
+172	"arania exumai"
+173	"good evening"
+174	"azkaban"
+175	"hedwig"
+176	"haven ’ t"
+177	"petunia"
+178	"ha"
+179	"house elf"
+180	"terrible things"
+181	"ahh"
+182	"fred"
+183	"george"
+184	"hurry"
+185	"aaah"
+186	"ronald weasley"
+187	"arthur"
+188	"diagonally"
+189	"mr. borgin"
+190	"flesh-eating slug repellent"
+191	"ladies"
+192	"nice"
+193	"front page"
+194	"lucius malfoy"
+195	"lucius"
+196	"clearly"
+197	"silence"
+198	"good morning"
+199	"ten"
+200	"got"
+201	"headless nick"
+202	"against"
+203	"know"
+204	"cornish"
+205	"seeker"
+206	"wow"
+207	"remember"
+208	"voice"
+209	"spooky"
+210	"strange"
+211	"filch"
+212	"'s cat"
+213	"everyone"
+214	"severus"
+215	"common room"
+216	"godric gryffindor"
+217	"mcgonagall"
+218	"madam pomfrey"
+219	"albus"
+220	"minerva"
+221	"parselmouth"
+222	"mark"
+223	"wait"
+224	"off"
+225	"millicent bulstrode"
+226	"reading"
+227	"calm"
+228	"have"
+229	"sure"
+230	"riddle"
+231	"sir"
+232	"unless"
+233	"recent events"
+234	"n't matter"
+235	"fudge"
+236	"fang"
+237	"spiders"
+238	"really"
+239	"wake"
+240	"wo n't wake"
+241	"release papers"
+242	"sorting"
+243	"uncle vernon…"
+244	"vernon"
+245	"’ m warning"
+246	"’ t control"
+247	"bloody bird"
+248	"huh"
+249	"secret messages"
+250	"friends ..."
+251	"pupkins"
+252	"ahem"
+253	"and-"
+254	"too"
+255	"mr."
+256	"mrs. mason"
+257	"ha-"
+258	"ho"
+259	"isn ’ t"
+260	"great time"
+261	"oh yes"
+262	"s-sit"
+263	"s-sit-"
+264	"ho ..."
+265	"didn ’ t"
+266	"offend dobby"
+267	"decent wizards"
+268	"awful thing"
+269	"baaad dobby"
+270	"don ’ t mind"
+271	"wizard family"
+272	"... ooh ..."
+273	"harry potter-"
+274	"witchcraft"
+275	"wizardry"
+276	"ooo"
+277	"... er ..."
+278	"’ t ..."
+279	"... argh ..."
+280	"ok– i-"
+281	"’ t-"
+282	"don"
+283	"i— errr"
+284	"i-"
+285	"punch line"
+286	"japanese golfer joke"
+287	"sir ..."
+288	"’ ve ... been-"
+289	"friends haven ’ t"
+290	"mustn ’ t"
+291	"heh- dobby"
+292	"ooh"
+293	"vast building"
+294	"a-and"
+295	"meeting"
+296	"strangers upsets"
+297	"freaky friends"
+298	"rescuing"
+299	"hell ’ s"
+300	"ahh-"
+301	"bloody pigeon aren ’ t"
+302	"aaaah"
+303	"damn"
+304	"happy birthday"
+305	"ok"
+306	"’ s home"
+307	"beds"
+308	"car"
+309	"don ’ t blame"
+310	"mum- mummy"
+311	"w-what"
+312	"morning arthur"
+313	"raids"
+314	"misuse"
+315	"muggle artifacts"
+316	"aah"
+317	"sorry sir"
+318	"good lord"
+319	"surrey"
+320	"rubber duck"
+321	"umm ..."
+322	"doesn"
+323	"’ ll manage"
+324	"selling"
+325	"muggle protection"
+326	"act ..."
+327	"... ah ... items"
+328	"certain poisons"
+329	"like ..."
+330	"hmmm"
+331	"... yes"
+332	"hand"
+333	"glory"
+334	"insert"
+335	"fine taste"
+336	"hermione granger"
+337	"wizard"
+338	"skulking"
+339	"knockturn alley"
+340	"dodgy"
+341	"hang"
+342	"school cabbages"
+343	"oculus reparo"
+344	"bye"
+345	"mr. gilderoy lockhart"
+346	"big smile"
+347	"together"
+348	"extraordinary moment"
+349	"flourish"
+350	"blotts"
+351	"magical me…"
+352	"27th week atop"
+353	"bestseller list"
+354	"famous harry potter"
+355	"ca"
+356	"forgive"
+357	"fear"
+358	"red hair"
+359	"vacant expressions tatty"
+360	"secondhand book"
+361	"busy"
+362	"extra raids"
+363	"different idea"
+364	"associating"
+365	"train 'll"
+366	"lost"
+367	"train leaves"
+368	"aaa"
+369	"invisibility booster"
+370	"aaaaaaahhhh"
+371	"haaaarryyy"
+372	"hand 's"
+373	"aaahhh"
+374	"fast"
+375	"scabbers"
+376	"'re okay"
+377	"'s gon na"
+378	"house-elf shows"
+379	"tree ..."
+380	"good look"
+381	"whomping willow"
+382	"honestly"
+383	"train home"
+384	"headmaster"
+385	"decree"
+386	"restriction"
+387	"underage wizardry"
+388	"such ..."
+389	"appropriate action"
+390	"greenhouse"
+391	"years"
+392	"mandragora"
+393	"original state"
+394	"'s cry"
+395	"cries wo n't"
+396	"auditory protection"
+397	"quickly"
+398	"flaps"
+399	"longbottom"
+400	"plenty"
+401	"grasp"
+402	"sir nicolas"
+403	"miss clearwater"
+404	"colin creevey"
+405	"bird 's"
+406	"heads"
+407	"howler"
+408	"how dare you steal that car"
+409	"absolutely disgusted"
+410	"your father"
+411	"now facing an inquiry at work and it"
+412	"entirely your fault"
+413	"if you put another toe out of line we"
+414	"bring you straight home"
+415	"new defense"
+416	"teacher"
+417	"gilderoy lockhart"
+418	"merlin"
+419	"honorary member"
+420	"force defense league"
+421	"times winner"
+422	"witch weekly"
+423	"most-charming-smile"
+424	"n't talk"
+425	"bandon banshee"
+426	"foulest creatures"
+427	"freshly"
+428	"laugh"
+429	"mr. finnegan"
+430	"peskipiksi pesternomi"
+431	"immobulus"
+432	"'re gon na train"
+433	"flint"
+434	"easy"
+435	"professor severus snape"
+436	"team permission"
+437	"nimbus"
+438	"'s father"
+439	"pure talent"
+440	"'ll pay"
+441	"eat"
+442	"specialist 's equipment"
+443	"dirty blood"
+444	"foul name"
+445	"muggle-born"
+446	"non-magic parents"
+447	"family ..."
+448	"'re pure-blood"
+449	"'s horrible"
+450	"'s codswallop"
+451	"dirty"
+452	"fame"
+453	"fickle friend"
+454	"celebrity"
+455	"bit drowsy"
+456	"scott"
+457	"time flies"
+458	"blood"
+459	"hear"
+460	"'s office"
+461	"ravenclaws"
+462	"aghh"
+463	"thought"
+464	"rubbish"
+465	"wrong place"
+466	"wrong time"
+467	"n't recall"
+468	"innocent"
+469	"madam sprout"
+470	"healthy growth"
+471	"hearing voices"
+472	"good sign"
+473	"water goblets"
+474	"wand needs"
+475	"helga hufflepuff"
+476	"rowena ravenclaw"
+477	"magical learning"
+478	"all-magic families"
+479	"such chamber"
+480	"means ..."
+481	"whole lot"
+482	"school rules ..."
+483	"properly"
+484	"physical form"
+485	"wicked"
+486	"'s tricky"
+487	"scarhead"
+488	"watch"
+489	"blimey"
+490	"proper wand"
+491	"training"
+492	"snitch"
+493	"finite incantatem"
+494	"wo n't hurt"
+495	"brackium emendo"
+496	"broken"
+497	"mend bones"
+498	"rough night"
+499	"regrowing"
+500	"nasty business"
+501	"pumpkin juice"
+502	"kill."
+503	"your bludger"
+504	"death threats"
+505	"n't suppose"
+506	"he-who-must-not-be-named"
+507	"house-elf 's enslavement"
+508	"terrible"
+509	"repeat"
+510	"oahh"
+511	"great danger"
+512	"enlighten"
+513	"broad daylight"
+514	"aaaaaa…"
+515	"dark events"
+516	"recent weeks"
+517	"dueling"
+518	"countless occasions"
+519	"full details"
+520	"short demonstration"
+521	"potions"
+522	"one.two"
+523	"expelliarmus"
+524	"excellent idea"
+525	"n't mind"
+526	"excellent suggestion"
+527	"'s wand causes devastation"
+528	"hospital wing"
+529	"might"
+530	"own house"
+531	"good luck"
+532	"wands"
+533	"scared"
+534	"everte statum"
+535	"rictusempra"
+536	"serpensortia"
+537	"allow"
+538	"alarte ascendare"
+539	"vipera evanesca"
+540	"common gift"
+541	"snake"
+542	"different language"
+543	"whole school 's gon na"
+544	"great-great-great grandson"
+545	"caught"
+546	"mr. filch"
+547	"sherbet lemon"
+548	"bee"
+549	"right house"
+550	"bird ..."
+551	"pity"
+552	"fascinating"
+553	"heavy loads"
+554	"hagriiid"
+555	"relax"
+556	"oww"
+557	"'ll ..."
+558	"draught"
+559	"simple"
+560	"'re asleep hide"
+561	"broomstick cupboard"
+562	"whose"
+563	"wingardium leviosa"
+564	"cool"
+565	"umm"
+566	".. um"
+567	"essence"
+568	"cheers"
+569	"'m gon na"
+570	"common room 's"
+571	"d ..."
+572	"school prefect"
+573	"'m ..."
+574	"pigging"
+575	"great hall"
+576	"ah-"
+577	"um .."
+578	"stomachache"
+579	"father"
+580	"saint potter"
+581	"granger"
+582	"scar"
+583	"hair"
+584	"hey"
+585	"'s awful"
+586	"human transformations"
+587	"cat hair"
+588	"'s robes"
+589	"fur balls"
+590	"yuck"
+591	"looks"
+592	"ohh-uhh"
+593	"own business"
+594	"'s funny"
+595	"ca n't hurt"
+596	"fifty"
+597	"u-bend"
+598	"whoo-oooh-whoooo"
+599	"tom marvolo riddle"
+600	"hello harry potter"
+601	"june"
+602	"late hour"
+603	"headmaster dippet"
+604	"good night"
+605	"evening"
+606	"dead girl 's parents"
+607	"monsters"
+608	"good pets"
+609	"stand"
+610	"cistem aperio"
+611	"haagriiid"
+612	"rotten snitch"
+613	"cheerful visit"
+614	"mad"
+615	"acne 's"
+616	"'ll chop"
+617	"neville"
+618	"whoever"
+619	"'s diary"
+620	"hufflepuff"
+621	"n't stand"
+622	"petrify"
+623	"gryffindor tower"
+624	"wee bit"
+625	"does"
+626	"new rules"
+627	"common rooms"
+628	"dad 's"
+629	"old cloak"
+630	"quick"
+631	"'s boss"
+632	"cornelius fudge"
+633	"bad business"
+634	"cornelius"
+635	"full confidence"
+636	"'s record"
+637	"believe"
+638	"awful loss"
+639	"wo n't stand"
+640	"governors desire"
+641	"admirable sentiments"
+642	"shall"
+643	"yep"
+644	"good boy"
+645	"shush"
+646	"n't panic"
+647	"'re friends"
+648	"distant land"
+649	"ancient creature"
+650	"fresh meat"
+651	"glad"
+652	"gear 's"
+653	"pull"
+654	"fearsome beasts"
+655	"years instant death awaits"
+656	"giant serpent 's eye"
+657	"nick"
+658	"full blast"
+659	"n't havea camera"
+660	"basilisk 's reflection"
+661	"great snake"
+662	"pipes"
+663	"house dormitories"
+664	"second-floor corridor"
+665	"dozed"
+666	"were"
+667	"gilderoy"
+668	"monster 's"
+669	"urgent"
+670	"well… aemm…"
+671	"description ..."
+672	"dear boy"
+673	"common sense"
+674	"memory charms"
+675	"otherwise"
+676	"olive hornby"
+677	"made-up language"
+678	"yellow eyes"
+679	"good work"
+680	"obviously"
+681	"eyes straightaway"
+682	"snake skin"
+683	"heart"
+684	"adventure ends"
+685	"n't fret"
+686	"obliviate"
+687	"ron weasley"
+688	"memory charm"
+689	"odd sort"
+690	"brainless oaf"
+691	"16-year-old self"
+692	"noble work"
+693	"mandrake draught"
+694	"killing mudbloods"
+695	"new target"
+696	"extraordinary magical talent"
+697	"'s powers"
+698	"surely"
+699	"muggle"
+700	"father 's name"
+701	"new name"
+702	"wizards everywhere"
+703	"albus dumbledore"
+704	"mere memory"
+705	"great defender"
+706	"old hat"
+707	"basilisk penetrates"
+708	"'d guess"
+709	"funny"
+710	"silly little book"
+711	"silly little girl"
+712	"'re hurt"
+713	"phoenix"
+714	"amazing"
+715	"dozen school rules"
+716	"sufficient evidence"
+717	"awards"
+718	"real loyalty"
+719	"am"
+720	"certain things"
+721	"certain ..."
+722	"certain similarities"
+723	"determination"
+724	"certain disregard"
+725	"hat place"
+726	"malfoys"
+727	"arthur weasley"
+728	"'s daughter"
+729	"ridiculous"
+730	"curiously"
+731	"beg"
+732	"sole concern"
+733	"fortunately"
+734	"old school-things"
+735	"innocent hands"
+736	"'s cauldron"
+737	"meddlesome fools"
+738	"sticky end"
+739	"anything"
+740	"congratulations"
+*Edges
+1	62	17
+1	66	16
+1	63	14
+1	69	11
+1	73	9
+1	76	8
+1	84	6
+1	71	5
+1	74	5
+1	64	4
+1	67	4
+1	78	4
+1	70	4
+1	133	4
+1	107	4
+1	97	3
+1	124	3
+1	98	3
+1	112	3
+1	125	3
+1	83	3
+1	75	3
+1	72	3
+1	65	3
+1	93	3
+1	160	3
+1	81	3
+1	95	3
+1	80	3
+1	170	3
+1	119	3
+1	108	3
+1	175	2
+1	126	2
+1	77	2
+1	132	2
+1	87	2
+1	137	2
+1	210	2
+1	215	2
+1	79	2
+1	88	2
+1	123	2
+1	172	2
+1	237	2
+1	171	2
+1	109	2
+1	239	2
+1	141	2
+1	128	2
+1	243	1
+1	176	1
+1	250	1
+1	110	1
+1	259	1
+1	260	1
+1	179	1
+1	265	1
+1	267	1
+1	180	1
+1	280	1
+1	281	1
+1	284	1
+1	287	1
+1	288	1
+1	289	1
+1	182	1
+1	183	1
+1	300	1
+1	311	1
+1	313	1
+1	317	1
+1	61	1
+1	321	1
+1	153	1
+1	188	1
+1	341	1
+1	344	1
+1	366	1
+1	367	1
+1	102	1
+1	372	1
+1	156	1
+1	374	1
+1	378	1
+1	379	1
+1	196	1
+1	157	1
+1	146	1
+1	192	1
+1	105	1
+1	449	1
+1	209	1
+1	460	1
+1	211	1
+1	212	1
+1	480	1
+1	481	1
+1	106	1
+1	162	1
+1	503	1
+1	168	1
+1	505	1
+1	509	1
+1	535	1
+1	144	1
+1	542	1
+1	546	1
+1	549	1
+1	550	1
+1	91	1
+1	563	1
+1	111	1
+1	570	1
+1	573	1
+1	576	1
+1	577	1
+1	226	1
+1	227	1
+1	583	1
+1	589	1
+1	591	1
+1	96	1
+1	599	1
+1	129	1
+1	611	1
+1	206	1
+1	619	1
+1	164	1
+1	628	1
+1	629	1
+1	236	1
+1	645	1
+1	646	1
+1	647	1
+1	653	1
+1	654	1
+1	655	1
+1	656	1
+1	201	1
+1	657	1
+1	658	1
+1	660	1
+1	207	1
+1	681	1
+1	682	1
+1	240	1
+1	693	1
+1	89	1
+1	703	1
+1	713	1
+1	720	1
+1	721	1
+1	722	1
+1	242	1
+1	216	1
+1	726	1
+1	231	1
+1	142	1
+1	736	1
+1	152	1
+1	114	1
+44	65	1
+44	248	1
+44	249	1
+45	64	1
+45	244	1
+13	64	8
+13	110	2
+13	92	2
+13	144	2
+13	177	2
+13	113	2
+13	72	2
+13	245	1
+13	246	1
+13	247	1
+13	98	1
+13	252	1
+13	253	1
+13	111	1
+13	254	1
+13	255	1
+13	256	1
+13	145	1
+13	270	1
+13	285	1
+13	286	1
+13	293	1
+13	294	1
+13	124	1
+13	295	1
+13	296	1
+13	297	1
+13	114	1
+13	299	1
+13	68	1
+13	301	1
+13	302	1
+13	303	1
+32	85	3
+32	71	1
+32	92	1
+32	110	1
+32	64	1
+38	251	1
+38	72	1
+9	62	37
+9	65	17
+9	72	4
+9	64	3
+9	178	2
+9	75	2
+9	169	2
+9	257	1
+9	258	1
+9	179	1
+9	261	1
+9	262	1
+9	263	1
+9	264	1
+9	266	1
+9	176	1
+9	268	1
+9	269	1
+9	271	1
+9	272	1
+9	273	1
+9	274	1
+9	275	1
+9	180	1
+9	276	1
+9	277	1
+9	278	1
+9	279	1
+9	282	1
+9	97	1
+9	283	1
+9	112	1
+9	290	1
+9	291	1
+9	181	1
+9	292	1
+9	77	1
+9	168	1
+9	504	1
+9	114	1
+9	506	1
+9	507	1
+9	508	1
+9	510	1
+9	739	1
+2	61	16
+2	85	5
+2	69	5
+2	64	4
+2	100	4
+2	70	4
+2	135	4
+2	71	4
+2	84	3
+2	88	3
+2	63	3
+2	92	2
+2	76	2
+2	127	2
+2	86	2
+2	99	2
+2	132	2
+2	115	2
+2	117	2
+2	134	2
+2	81	2
+2	91	2
+2	96	2
+2	122	2
+2	136	2
+2	109	2
+2	146	1
+2	298	1
+2	184	1
+2	98	1
+2	304	1
+2	306	1
+2	101	1
+2	314	1
+2	315	1
+2	102	1
+2	113	1
+2	153	1
+2	152	1
+2	368	1
+2	72	1
+2	369	1
+2	371	1
+2	375	1
+2	376	1
+2	377	1
+2	382	1
+2	118	1
+2	405	1
+2	437	1
+2	440	1
+2	441	1
+2	459	1
+2	90	1
+2	167	1
+2	73	1
+2	106	1
+2	166	1
+2	485	1
+2	194	1
+2	116	1
+2	512	1
+2	513	1
+2	221	1
+2	541	1
+2	139	1
+2	543	1
+2	544	1
+2	562	1
+2	567	1
+2	569	1
+2	571	1
+2	578	1
+2	582	1
+2	228	1
+2	590	1
+2	595	1
+2	107	1
+2	612	1
+2	613	1
+2	77	1
+2	618	1
+2	217	1
+2	631	1
+2	632	1
+2	80	1
+2	203	1
+2	651	1
+2	652	1
+2	174	1
+2	95	1
+2	659	1
+2	661	1
+2	163	1
+2	662	1
+2	202	1
+2	683	1
+2	687	1
+2	137	1
+2	688	1
+39	86	1
+39	115	1
+39	100	1
+28	147	3
+28	86	1
+28	99	1
+28	305	1
+28	97	1
+28	100	1
+28	61	1
+28	622	1
+46	185	1
+12	61	8
+12	72	3
+12	67	2
+12	186	2
+12	64	2
+12	83	2
+12	66	2
+12	76	2
+12	307	1
+12	308	1
+12	309	1
+12	92	1
+12	112	1
+12	312	1
+12	319	1
+12	187	1
+12	110	1
+12	150	1
+12	151	1
+12	323	1
+12	113	1
+12	152	1
+12	86	1
+12	154	1
+12	153	1
+12	93	1
+12	145	1
+12	365	1
+12	99	1
+12	184	1
+12	408	1
+12	409	1
+12	410	1
+12	411	1
+12	412	1
+12	413	1
+12	414	1
+12	82	1
+29	61	2
+29	310	1
+29	230	1
+29	712	1
+16	67	2
+16	61	2
+16	148	1
+16	149	1
+16	316	1
+16	318	1
+16	66	1
+16	64	1
+16	92	1
+16	102	1
+16	320	1
+16	80	1
+16	113	1
+16	322	1
+16	97	1
+16	188	1
+16	195	1
+16	363	1
+16	81	1
+16	182	1
+16	183	1
+16	151	1
+47	148	1
+47	85	1
+48	72	1
+25	64	2
+25	150	1
+25	72	1
+25	75	1
+25	98	1
+25	61	1
+25	77	1
+25	402	1
+25	129	1
+25	572	1
+25	154	1
+25	81	1
+23	128	1
+23	324	1
+23	330	1
+23	331	1
+23	332	1
+23	333	1
+23	334	1
+23	83	1
+23	335	1
+23	337	1
+7	101	3
+7	116	3
+7	67	3
+7	62	3
+7	189	2
+7	130	2
+7	83	2
+7	102	2
+7	235	2
+7	68	2
+7	127	1
+7	325	1
+7	326	1
+7	327	1
+7	328	1
+7	329	1
+7	194	1
+7	356	1
+7	131	1
+7	358	1
+7	359	1
+7	360	1
+7	149	1
+7	103	1
+7	361	1
+7	187	1
+7	362	1
+7	196	1
+7	364	1
+7	637	1
+7	164	1
+7	106	1
+7	75	1
+7	638	1
+7	641	1
+7	642	1
+7	729	1
+7	732	1
+7	71	1
+7	80	1
+7	737	1
+7	222	1
+7	738	1
+11	68	5
+11	91	3
+11	80	3
+11	103	2
+11	105	2
+11	79	2
+11	88	2
+11	67	2
+11	336	1
+11	354	1
+11	355	1
+11	193	1
+11	165	1
+11	166	1
+11	487	1
+11	491	1
+11	533	1
+11	534	1
+11	536	1
+11	574	1
+11	575	1
+11	226	1
+11	149	1
+11	155	1
+11	579	1
+11	580	1
+11	74	1
+11	73	1
+11	581	1
+11	584	1
+6	61	7
+6	77	4
+6	69	4
+6	87	4
+6	70	3
+6	123	3
+6	190	2
+6	86	2
+6	71	2
+6	66	2
+6	67	2
+6	338	1
+6	339	1
+6	340	1
+6	342	1
+6	442	1
+6	99	1
+6	81	1
+6	447	1
+6	448	1
+6	450	1
+6	451	1
+6	489	1
+6	168	1
+6	496	1
+6	223	1
+6	169	1
+6	101	1
+6	127	1
+6	145	1
+6	556	1
+6	557	1
+6	114	1
+6	614	1
+6	159	1
+6	158	1
+6	615	1
+6	616	1
+6	617	1
+6	234	1
+6	72	1
+6	630	1
+6	156	1
+6	174	1
+6	106	1
+6	639	1
+6	643	1
+6	236	1
+6	126	1
+6	241	1
+6	150	1
+3	61	7
+3	121	5
+3	70	5
+3	79	4
+3	74	4
+3	63	3
+3	73	3
+3	81	3
+3	94	2
+3	89	2
+3	82	2
+3	66	2
+3	105	2
+3	163	2
+3	165	2
+3	119	2
+3	96	2
+3	88	2
+3	91	2
+3	225	2
+3	109	2
+3	343	1
+3	99	1
+3	357	1
+3	392	1
+3	393	1
+3	394	1
+3	431	1
+3	439	1
+3	134	1
+3	443	1
+3	444	1
+3	445	1
+3	446	1
+3	208	1
+3	95	1
+3	471	1
+3	472	1
+3	106	1
+3	217	1
+3	75	1
+3	154	1
+3	482	1
+3	483	1
+3	484	1
+3	139	1
+3	486	1
+3	490	1
+3	493	1
+3	140	1
+3	540	1
+3	120	1
+3	221	1
+3	558	1
+3	559	1
+3	560	1
+3	561	1
+3	568	1
+3	586	1
+3	587	1
+3	588	1
+3	232	1
+3	143	1
+3	740	1
+3	72	1
+49	191	1
+49	345	1
+30	129	2
+30	93	1
+30	155	1
+30	65	1
+26	61	2
+26	70	1
+26	65	1
+26	192	1
+26	346	1
+26	347	1
+26	193	1
+26	191	1
+26	348	1
+26	349	1
+26	350	1
+26	351	1
+26	352	1
+26	155	1
+26	353	1
+34	370	1
+34	373	1
+34	185	1
+17	68	2
+17	67	1
+17	380	1
+17	72	1
+17	388	1
+17	95	1
+17	464	1
+17	89	1
+17	545	1
+17	222	1
+14	68	4
+14	102	1
+14	381	1
+14	197	1
+14	74	1
+14	383	1
+14	384	1
+14	385	1
+14	386	1
+14	387	1
+14	465	1
+14	466	1
+14	467	1
+14	131	1
+14	523	1
+14	103	1
+14	527	1
+14	528	1
+14	529	1
+14	530	1
+14	81	1
+14	539	1
+14	137	1
+14	83	1
+14	666	1
+14	73	1
+5	61	10
+5	78	5
+5	82	4
+5	138	4
+5	89	3
+5	108	3
+5	63	3
+5	213	2
+5	94	2
+5	75	2
+5	141	2
+5	224	2
+5	67	2
+5	122	2
+5	139	2
+5	157	1
+5	389	1
+5	468	1
+5	214	1
+5	469	1
+5	470	1
+5	95	1
+5	511	1
+5	220	1
+5	73	1
+5	551	1
+5	552	1
+5	553	1
+5	554	1
+5	555	1
+5	230	1
+5	602	1
+5	603	1
+5	173	1
+5	634	1
+5	635	1
+5	227	1
+5	640	1
+5	715	1
+5	716	1
+5	717	1
+5	104	1
+5	241	1
+5	174	1
+5	718	1
+5	719	1
+5	723	1
+5	724	1
+5	242	1
+5	725	1
+5	156	1
+5	727	1
+5	728	1
+5	730	1
+5	195	1
+5	731	1
+5	733	1
+5	130	1
+5	734	1
+5	735	1
+5	158	1
+5	218	1
+5	233	1
+10	104	5
+10	74	4
+10	79	4
+10	75	3
+10	167	2
+10	120	2
+10	68	2
+10	86	1
+10	473	1
+10	71	1
+10	181	1
+10	474	1
+10	131	1
+10	216	1
+10	475	1
+10	476	1
+10	477	1
+10	478	1
+10	73	1
+10	67	1
+10	479	1
+10	89	1
+10	218	1
+10	219	1
+10	87	1
+10	547	1
+10	197	1
+10	162	1
+10	623	1
+10	624	1
+10	625	1
+10	233	1
+10	626	1
+10	627	1
+10	232	1
+10	663	1
+10	664	1
+10	667	1
+10	83	1
+10	142	1
+18	94	3
+18	159	2
+18	148	1
+18	198	1
+18	158	1
+18	117	1
+18	390	1
+18	391	1
+18	131	1
+18	111	1
+18	199	1
+18	82	1
+18	395	1
+18	396	1
+18	397	1
+18	398	1
+18	200	1
+18	399	1
+18	86	1
+18	400	1
+18	401	1
+51	198	1
+35	406	1
+35	103	1
+35	407	1
+35	204	1
+52	201	1
+31	77	2
+31	93	2
+31	151	1
+31	403	1
+31	173	1
+31	69	1
+31	117	1
+41	61	2
+41	146	1
+41	404	1
+41	82	1
+41	206	1
+53	66	1
+27	61	2
+27	66	1
+27	125	1
+27	69	1
+4	61	8
+4	118	4
+4	136	2
+4	111	2
+4	68	2
+4	67	2
+4	238	2
+4	415	1
+4	202	1
+4	416	1
+4	417	1
+4	418	1
+4	419	1
+4	420	1
+4	421	1
+4	422	1
+4	423	1
+4	424	1
+4	425	1
+4	426	1
+4	203	1
+4	427	1
+4	204	1
+4	428	1
+4	429	1
+4	430	1
+4	452	1
+4	453	1
+4	454	1
+4	207	1
+4	126	1
+4	208	1
+4	455	1
+4	456	1
+4	209	1
+4	457	1
+4	462	1
+4	463	1
+4	214	1
+4	494	1
+4	495	1
+4	515	1
+4	516	1
+4	87	1
+4	517	1
+4	518	1
+4	519	1
+4	520	1
+4	521	1
+4	114	1
+4	522	1
+4	524	1
+4	525	1
+4	526	1
+4	103	1
+4	531	1
+4	532	1
+4	537	1
+4	538	1
+4	665	1
+4	669	1
+4	200	1
+4	670	1
+4	671	1
+4	672	1
+4	673	1
+4	674	1
+4	675	1
+4	679	1
+4	680	1
+4	229	1
+4	684	1
+4	685	1
+4	130	1
+4	134	1
+4	686	1
+4	77	1
+4	71	1
+4	689	1
+4	714	1
+21	161	2
+21	205	2
+21	432	1
+21	433	1
+21	82	1
+21	435	1
+21	74	1
+21	436	1
+21	71	1
+21	488	1
+21	61	1
+21	620	1
+21	621	1
+21	67	1
+21	157	1
+21	70	1
+42	161	1
+42	434	1
+42	162	1
+42	116	1
+42	438	1
+20	90	7
+20	458	1
+20	164	1
+20	502	1
+55	461	1
+36	82	2
+36	74	1
+36	65	1
+36	492	1
+57	115	2
+22	128	1
+22	497	1
+22	498	1
+22	68	1
+22	499	1
+22	500	1
+22	501	1
+22	71	1
+22	668	1
+22	220	1
+15	96	2
+15	71	2
+15	61	2
+15	514	1
+15	223	1
+15	585	1
+15	592	1
+15	593	1
+15	594	1
+15	229	1
+15	171	1
+15	70	1
+15	199	1
+15	596	1
+15	597	1
+15	598	1
+15	77	1
+15	676	1
+15	677	1
+15	678	1
+15	72	1
+37	548	1
+37	68	1
+37	74	1
+59	564	1
+59	565	1
+59	566	1
+33	600	1
+33	107	1
+33	601	1
+8	63	7
+8	78	4
+8	140	3
+8	76	3
+8	80	3
+8	75	2
+8	70	2
+8	61	2
+8	142	2
+8	120	2
+8	68	2
+8	87	1
+8	231	1
+8	604	1
+8	605	1
+8	606	1
+8	607	1
+8	608	1
+8	609	1
+8	610	1
+8	172	1
+8	240	1
+8	73	1
+8	166	1
+8	211	1
+8	212	1
+8	690	1
+8	691	1
+8	692	1
+8	228	1
+8	694	1
+8	234	1
+8	695	1
+8	696	1
+8	697	1
+8	698	1
+8	699	1
+8	700	1
+8	701	1
+8	702	1
+8	704	1
+8	705	1
+8	706	1
+8	79	1
+8	65	1
+8	122	1
+8	83	1
+8	707	1
+8	708	1
+8	105	1
+8	709	1
+8	710	1
+8	711	1
+8	84	1
+24	63	4
+24	633	1
+24	106	1
+24	101	1
+24	219	1
+24	636	1
+24	644	1
+19	63	8
+19	71	1
+19	73	1
+19	648	1
+19	649	1
+19	650	1
+43	143	3
+43	117	1
+43	173	1

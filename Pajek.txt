@@ -1,0 +1,37 @@
+==============================================================================
+3. Louvain Communities in N1 (65, Res=1.000000, Q=0.355552, NC=5)
+==============================================================================
+Dimension: 65
+The lowest value:  1
+The highest value: 5
+
+Frequency distribution of cluster values:
+
+   Cluster      Freq     Freq%   CumFreq  CumFreq% Representative
+ ----------------------------------------------------------------
+         1        20   30.7692        20   30.7692 Regulus Arcturus Black
+         2        14   21.5385        34   52.3077 Lavender Brown
+         3        20   30.7692        54   83.0769 Alberforth Dumbledore
+         4         3    4.6154        57   87.6923 Dudley Dursley
+         5         8   12.3077        65  100.0000 Arthur Weasley
+ ----------------------------------------------------------------
+       Sum        65  100.0000
+
+40 <- harry potter
+
+VOS clustering (음수로 넣으면 사용)
+harry potter는 어느 클러스터에도 들어가지 않음.
+
+k-neighbors
+해리포터랑 모든 인물이 1, 2 건너이다.
+
+k-Core
+중심인물 찾을 수 있었음.
+
+All degree centrality
+등장 순위
+
+closeness centrality
+
+betweeness centrality
+
